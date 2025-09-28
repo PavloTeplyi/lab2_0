@@ -10,7 +10,7 @@ int main() {
 	cout << "Enter number ";
 	cin >> a;
 
-	z1 = (sin(a) + sin(a * 5) - sin(a * 3)) / (cos(a) - cos(a * 3) + cos(a * 5));
+	//z1 = (sin(a) + sin(a * 5) - sin(a * 3)) / (cos(a) - cos(a * 3) + cos(a * 5));
 	
 	z2 = tan(3 * a);
 	
